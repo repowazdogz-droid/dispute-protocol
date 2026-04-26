@@ -47,6 +47,8 @@ Four capabilities:
 - **majority** — simple majority for multi-party disputes
 - **conservative_default** — minimise potential harm when uncertain
 
+Repository: https://github.com/repowazdogz-droid/dispute-protocol
+
 ## Install
 
 ```bash

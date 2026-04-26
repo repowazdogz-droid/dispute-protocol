@@ -1,6 +1,6 @@
 {
   "name": "dispute-protocol",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Structured resolution of disagreements between agents or humans and agents (DSP-1.0)",
   "license": "MIT",
   "main": "dist/index.js",
@@ -15,5 +15,31 @@
     "jest": "^29.7.0",
     "ts-jest": "^29.1.2",
     "typescript": "^5.3.3"
-  }
+  },
+  "author": "Warren Smith",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/repowazdogz-droid/dispute-protocol.git"
+  },
+  "homepage": "https://github.com/repowazdogz-droid/dispute-protocol#readme",
+  "bugs": {
+    "url": "https://github.com/repowazdogz-droid/dispute-protocol/issues"
+  },
+  "keywords": [
+    "omega-protocol",
+    "dispute-protocol",
+    "dsp-1.0"
+  ],
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "require": "./dist/index.js",
+      "default": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ]
 }

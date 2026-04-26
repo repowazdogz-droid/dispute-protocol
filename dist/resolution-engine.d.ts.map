@@ -1,0 +1,1 @@
+{"version":3,"file":"resolution-engine.d.ts","sourceRoot":"","sources":["../src/resolution-engine.ts"],"names":[],"mappings":"AAAA;;GAEG;AAEH,OAAO,KAAK,EACV,OAAO,EACP,UAAU,EACV,gBAAgB,EAEhB,SAAS,EACV,MAAM,SAAS,CAAC;AAGjB,wBAAgB,iBAAiB,CAC/B,OAAO,EAAE,OAAO,EAChB,MAAM,EAAE,gBAAgB,EACxB,UAAU,EAAE,SAAS,EAAE,EACvB,OAAO,CAAC,EAAE;IAAE,wBAAwB,CAAC,EAAE,MAAM,CAAA;CAAE,GAC9C,UAAU,CA0HZ"}
